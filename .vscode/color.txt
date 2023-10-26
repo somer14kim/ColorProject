@@ -1,0 +1,45 @@
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+<ul class="NA">
+    <li class="nav"><a href="#">Home</a></li>
+    <li class="nav"><a href="#">About</a></li>
+    <li class="nav"><a href="#">News</a></li>
+    <li class="nav"><a href="#">Contact</a></li>
+  </ul>
+  <p>I have been thinking about moving right after high school with my sister Brooklyn.</p>
+  <div class="fixed">Kimberly Stacey</div>
+  <h1 class="ee">Rooms</h1>
+  <dl>
+    <dt>Kitchen</dt>
+    <dd>Spacious, storage, glass cabinets, retro</dd>
+    <dt>Living Room</dt>
+    <dd>70s, modern chic, big tv</dd>
+    <dt>Bathrooms</dt>
+    <dd>Spacious, YinYang, gold, big shower</dd>
+  </dl>
+  <h1 class="ee">Esstenials</h1>
+  <ul class="r">
+    <li class="r">Cleaners
+      <ul class="r">
+        <li class="r">floor</li>
+        <li class="r">Counters/cabinets</li>
+        <li class="r">Appliences</li>
+        <li class="r">Showers/toliets</li>
+      </ul>
+    </li>
+    <li class="r">Groceries</li>
+    </ul>
+  <h1 class="ee">Likes</h1>
+  <ol reversed>
+    <li class="F">Planning</li>
+    <li class="F">Shopping</li>
+    <li class="F">Organization</li>
+    <li class="F">DIYs</li>
+    <li class="F">Decorating</li>
+    <li class="F">Desktop</li>
+    <li class="F">Roomate (sister)</li>
+    <li class="F">Cooking</li>
+    <li class="F">Baking</li>
+    <li class="F">Pets</li>
+  </ol>
